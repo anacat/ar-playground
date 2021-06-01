@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4815719444904615039
+  m_GuidHigh: 15555104411807706044
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4987866250782276551
+      m_GuidHigh: 4917390980587385747
+    m_SerializedTextureGuid:
+      m_GuidLow: 2081901187329150081
+      m_GuidHigh: 5693091917638359913
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: cat
+    m_Texture: {fileID: 2800000, guid: 7837cc8166191ce4695b7b90efec014f, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4950953522266170055
+      m_GuidHigh: 6322378686102914495
+    m_SerializedTextureGuid:
+      m_GuidLow: 1933222168966413680
+      m_GuidHigh: 9524600026880425739
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: coolcat
+    m_Texture: {fileID: 2800000, guid: ed273d702f511ad40b3fe2cd422d2e84, type: 3}
